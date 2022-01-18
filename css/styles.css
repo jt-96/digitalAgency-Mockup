@@ -18,3 +18,7 @@ body {
     height: 400px;
     padding-top: 200px;
 }
+
+#banner {
+    background-color: orangered;
+}
