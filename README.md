@@ -1,2 +1,2 @@
-#Digital Agency - Mockup
-A Bootstrap Practice Project
+# Digital Agency - Mockup
+*A Bootstrap Practice Project*
