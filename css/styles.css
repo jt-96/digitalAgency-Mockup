@@ -5,3 +5,16 @@ body {
 .bg-nav {
     background-color: #13151d !important; 
 }
+
+#inicio {
+    background: url("../img/adults-analysis-banking-1451447.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro {
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    height: 400px;
+    padding-top: 200px;
+}
