@@ -19,6 +19,6 @@ body {
     padding-top: 200px;
 }
 
-#banner {
+#banner, #contacto {
     background-color: orangered;
 }
