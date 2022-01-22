@@ -3,4 +3,4 @@
 
 Made with Bootstrap, HTML & CSS
 
-Avaliable at https://jt-96.github.io/digitalAgency-Mockup
+Available at https://jt-96.github.io/digitalAgency-Mockup
